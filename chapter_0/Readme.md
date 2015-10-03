@@ -1,6 +1,14 @@
-[Array]  (http://docs.ruby-lang.org/en/2.0.0/Array.html)
+My terminal output:
 
-[Hash]  (http://ruby-doc.org/core-2.2.2/Hash.html)
+
+
+
+
+
+
+[Array]  (http://ruby-doc.org/core-2.2.3/Array.html)
+
+[Hash]  (http://ruby-doc.org/core-2.2.3/Hash.html)
 
 [Chronic]  (http://chronic.rubyforge.org/)
 
